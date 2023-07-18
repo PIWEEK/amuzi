@@ -1,4 +1,4 @@
-12796
+12837
 47/home/xaviju/Projects/2023/domenica/web/LICENSE1689660238239736966 0
 49/home/xaviju/Projects/2023/domenica/web/README.md1689660238239736966 0
 74/home/xaviju/Projects/2023/domenica/web/node_modules/import-fresh/index.js1689660240039739503 0
@@ -45,7 +45,6 @@
 87/home/xaviju/Projects/2023/domenica/web/node_modules/string.prototype.trimstart/shim.js1689660240283073179 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/string.prototype.trimstart/.eslintrc1689660240283073179 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/string.prototype.trimstart/.editorconfig1689660240283073179 0
-92/home/xaviju/Projects/2023/domenica/web/node_modules/string.prototype.trimstart/package.json1689660240283073179 0
 79/home/xaviju/Projects/2023/domenica/web/node_modules/string.prototype.trimstart1689660240283073179 1
 68/home/xaviju/Projects/2023/domenica/web/node_modules/json5/README.md1689660240056406193 0
 77/home/xaviju/Projects/2023/domenica/web/node_modules/json5/dist/index.min.mjs1689660240056406193 0
@@ -116,7 +115,6 @@
 78/home/xaviju/Projects/2023/domenica/web/node_modules/prettier/plugins/yaml.mjs1689660240243073122 0
 70/home/xaviju/Projects/2023/domenica/web/node_modules/prettier/doc.d.ts1689660240209739742 0
 67/home/xaviju/Projects/2023/domenica/web/node_modules/is-bigint/test1689660240043072841 1
-71/home/xaviju/Projects/2023/domenica/web/node_modules/is-bigint/index.js1689660240043072841 0
 76/home/xaviju/Projects/2023/domenica/web/node_modules/is-bigint/.eslintignore1689660240043072841 0
 70/home/xaviju/Projects/2023/domenica/web/node_modules/is-bigint/.github1689660240043072841 1
 76/home/xaviju/Projects/2023/domenica/web/node_modules/queue-microtask/LICENSE1689660240246406461 0
@@ -378,7 +376,6 @@
 75/home/xaviju/Projects/2023/domenica/web/node_modules/semver/ranges/valid.js1689660240269739827 0
 77/home/xaviju/Projects/2023/domenica/web/node_modules/semver/ranges/outside.js1689660240269739827 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/semver/ranges/min-satisfying.js1689660240269739827 0
-59/home/xaviju/Projects/2023/domenica/web/node_modules/semver1689660240269739827 1
 86/home/xaviju/Projects/2023/domenica/web/node_modules/typed-array-byte-offset/README.md1689660240323073235 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/typed-array-byte-offset/test1689660240326406573 1
 85/home/xaviju/Projects/2023/domenica/web/node_modules/typed-array-byte-offset/index.js1689660240323073235 0
@@ -686,7 +683,6 @@
 71/home/xaviju/Projects/2023/domenica/web/node_modules/css-functions-list1689660239896405968 1
 70/home/xaviju/Projects/2023/domenica/web/node_modules/is-symbol/LICENSE1689660240049739517 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/is-symbol/README.md1689660240049739517 0
-67/home/xaviju/Projects/2023/domenica/web/node_modules/is-symbol/test1689660240049739517 1
 75/home/xaviju/Projects/2023/domenica/web/node_modules/is-symbol/CHANGELOG.md1689660240049739517 0
 71/home/xaviju/Projects/2023/domenica/web/node_modules/is-symbol/index.js1689660240049739517 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/is-symbol/.github/FUNDING.yml1689660240049739517 0
@@ -1555,6 +1551,41 @@
 90/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/browser.d.ts.map1689660240273073165 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/index.d.ts1689660240273073165 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/browser.d.ts1689660240273073165 0
+88/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/index.d.ts.map1689660240273073165 0
+90/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/signals.d.ts.map1689660240273073165 0
+86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/package.json1689660240273073165 0
+84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/browser.js1689660240273073165 0
+73/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs1689660240273073165 1
+86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/index.js.map1689660240273073165 0
+86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/signals.d.ts1689660240273073165 0
+82/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/index.js1689660240273073165 0
+88/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/signals.js.map1689660240273073165 0
+90/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/browser.d.ts.map1689660240273073165 0
+84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/signals.js1689660240273073165 0
+88/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/browser.js.map1689660240273073165 0
+84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/index.d.ts1689660240273073165 0
+88/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/index.d.ts.map1689660240273073165 0
+90/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/signals.d.ts.map1689660240273073165 0
+84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/browser.js1689660240273073165 0
+73/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs1689660240273073165 1
+69/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist1689660240273073165 1
+77/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/package.json1689660240273073165 0
+64/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit1689660240273073165 1
+78/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/LICENSE1689660240266406489 0
+80/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/README.md1689660240266406489 0
+84/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/test/index.js1689660240266406489 0
+71/home/xaviju/Projects/2023/domenica/web/node_modules/prettier/index.mjs1689660240213073080 0
+89/home/xaviju/Projects/2023/domenica/web/node_modules/rimraf/dist/mjs/default-tmp.d.ts.map1689660240263073151 0
+83/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/CHANGELOG.md1689660240266406489 0
+79/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/index.js1689660240266406489 0
+77/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/.nycrc1689660240266406489 0
+80/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/.eslintrc1689660240266406489 0
+83/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/package.json1689660240266406489 0
+67/home/xaviju/Projects/2023/domenica/web/node_modules/slash/index.js1689660240273073165 0
+66/home/xaviju/Projects/2023/domenica/web/node_modules/slash/license1689660240273073165 0
+68/home/xaviju/Projects/2023/domenica/web/node_modules/slash/readme.md1689660240273073165 0
+71/home/xaviju/Projects/2023/domenica/web/node_modules/slash/package.json1689660240273073165 0
+74/home/xaviju/Projects/2023/domenica/web/node_modules/path-scurry/README.md1689660240193073052 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/IsDataDescriptor.js1689660239949739376 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/GetGlobalObject.js1689660239949739376 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/abortcontroller-polyfill/README.md1689660239833072545 0
@@ -1608,7 +1639,6 @@
 122/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/procedure.d.ts1689660238469737291 0
 102/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/pseudo-selectors/subselects.js.map1689660239899739306 0
 122/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/clean/Declaration.js1689660238483070643 0
-71/home/xaviju/Projects/2023/domenica/web/node_modules/slash/package.json1689660240273073165 0
 104/home/xaviju/Projects/2023/domenica/web/node_modules/load-json-file/node_modules/parse-json/package.json1689660240166406348 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/TimeClip.js1689660239949739376 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/TimeFromYear.js1689660239949739376 0
@@ -1766,7 +1796,7 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/thisBooleanValue.js1689660239996406108 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/NumberToBigInt.js1689660239993072770 0
 62/home/xaviju/Projects/2023/domenica/web/node_modules/.bin/svgo1689660238263070333 0
-133/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/heads/gh-pages1689666911305207870 0
+133/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/heads/gh-pages1689667302095795888 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/NumberBitwiseOp.js1689660239993072770 0
 118/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/css/definitions.json1689660238539737389 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/IsPropertyKey.js1689660239993072770 0
@@ -1820,6 +1850,9 @@
 98/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-postcss/src/loadConfig.js1689660239306405136 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/Number/exponentiate.js1689660239993072770 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/IterableToArrayLike.js1689660239953072714 0
+94/home/xaviju/Projects/2023/domenica/web/node_modules/rimraf/dist/mjs/readdir-or-error.d.ts.map1689660240266406489 0
+78/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/.github1689660240266406489 1
+87/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/PromiseResolve.js1689660239973072742 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/Number/sameValueZero.js1689660239993072770 0
 118/home/xaviju/Projects/2023/domenica/web/node_modules/camelcase-keys/node_modules/type-fest/source/observable-like.d.ts1689660239856405911 0
 79/home/xaviju/Projects/2023/domenica/web/node_modules/gh-pages/node_modules/glob1689666826485083837 1
@@ -2040,6 +2073,7 @@
 103/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2018/IsCompatiblePropertyDescriptor.js1689660239959739390 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/minipass/dist/mjs/index.js.map1689660240173073024 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2018/IteratorNext.js1689660239963072728 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/89/c29c8b05d2a63acf729c3c9165b24a2c9fe6081689667301889128905 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/atRuleParamIndex.js1689660240303073207 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/rimraf/dist/mjs/platform.js1689660240266406489 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2018/CreateMethodProperty.js1689660239959739390 0
@@ -2267,7 +2301,6 @@
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/SetIntegrityLevel.js1689660239953072714 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/StringCreate.js1689660239953072714 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/IsDetachedBuffer.js1689660239953072714 0
-68/home/xaviju/Projects/2023/domenica/web/node_modules/slash/readme.md1689660240273073165 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/thisTimeValue.js1689660239956406052 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/substring.js1689660239983072756 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/CF.js1689660239879739277 0
@@ -2355,6 +2388,8 @@
 91/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/ValidateTypedArray.js1689660239956406052 0
 74/home/xaviju/Projects/2023/domenica/web/node_modules/msgpackr/iterators.js1689660240176406362 0
 76/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/Number1689660239973072742 1
+69/home/xaviju/Projects/2023/domenica/web/node_modules/slash/index.d.ts1689660240273073165 0
+97/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/source-map/parcel_sourcemap_node/src1689660238593070798 1
 74/home/xaviju/Projects/2023/domenica/web/node_modules/decamelize/index.d.ts1689660239939739362 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2017/SetFunctionName.js1689660239959739390 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/NL.js1689660239886405953 0
@@ -2669,7 +2704,6 @@
 93/home/xaviju/Projects/2023/domenica/web/node_modules/@babel/highlight/node_modules/color-name1689660238269737009 1
 87/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2017/IterableToList.js1689660239956406052 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/cjs/_inherits_loose.cjs1689660239819739193 0
-80/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/WeekDay.js1689660239989739432 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/FindViaPredicate.js1689660239989739432 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/GetGlobalObject.js1689660239983072756 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/Number/signedRightShift.js1689660239993072770 0
@@ -2730,12 +2764,12 @@
 92/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/ToIntegerOrInfinity.js1689660239986406094 0
 65/home/xaviju/Projects/2023/domenica/web/node_modules/memorystream1689660240166406348 1
 95/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/webtransport.js1689660239876405939 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/76/b7722386530ee8d8dab60288ea93f58b7dd7771689667301872462212 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/IsDataDescriptor.js1689660239983072756 0
 102/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-babel/lib/BabelTransformer.js1689660238596404136 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/BigInt/sameValue.js1689660239976406080 0
 106/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/src/_class_static_private_method_get.mjs1689660239829739207 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/src/applyRuntimes.js1689660238326403755 0
-74/home/xaviju/Projects/2023/domenica/web/node_modules/path-scurry/README.md1689660240193073052 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/csso/node_modules/mdn-data/css/syntaxes.json1689660239939739362 0
 74/home/xaviju/Projects/2023/domenica/web/node_modules/jsonfile/package.json1689666826455083793 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/GetPromiseResolve.js1689660239983072756 0
@@ -2766,7 +2800,7 @@
 77/home/xaviju/Projects/2023/domenica/web/node_modules/npm-run-all/lib/spawn.js1689660240183073038 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/IsBigIntElementType.js1689660239983072756 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/StringToCodePoints.js1689660239986406094 0
-67/home/xaviju/Projects/2023/domenica/web/dist/index.a9e3600a.css.map1689667299669125508 0
+67/home/xaviju/Projects/2023/domenica/web/dist/index.a9e3600a.css.map1689667525476139848 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/lmdb/dependencies/lz4/lib/lz4.h1689660240149739658 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2018/thisNumberValue.js1689660239963072728 0
 103/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/lib/_class_private_field_loose_key.js1689660239826405869 0
@@ -2841,7 +2875,6 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/AddToKeptObjects.js1689660239983072756 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/IsSharedArrayBuffer.js1689660239986406094 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/AE.js1689660239876405939 0
-90/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/signals.d.ts.map1689660240273073165 0
 120/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/test/fixtures/targets-default-distdir-one/package.json1689660238333070431 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2017/StringCreate.js1689660239959739390 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/config-default1689660238319737079 1
@@ -2899,7 +2932,6 @@
 110/home/xaviju/Projects/2023/domenica/web/node_modules/@csstools/css-tokenizer/dist/code-points/code-points.d.ts1689660238273070347 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/5/MinFromTime.js1689660239996406108 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/hosted-git-info/git-host-info.js1689660240036406165 0
-78/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/5/ToNumber.js1689660239996406108 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/5/IsAccessorDescriptor.js1689660239996406108 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-image/package.json1689660238599737474 0
 77/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/GetV.js1689660239976406080 0
@@ -2966,7 +2998,6 @@
 97/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/helpers/typedArrayContructors.js1689660239999739446 0
 108/home/xaviju/Projects/2023/domenica/web/node_modules/csso/node_modules/css-tree/cjs/syntax/config/parser.cjs1689660239929739348 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/abortcontroller-polyfill/dist/cjs-ponyfill.js1689660239833072545 0
-84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/browser.js1689660240273073165 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/ToDateString.js1689660239956406052 0
 79/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/modulo.js1689660239983072756 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/helpers/bytesAsFloat32.js1689660239999739446 0
@@ -2992,7 +3023,6 @@
 98/home/xaviju/Projects/2023/domenica/web/node_modules/glob/node_modules/minimatch/dist/cjs/ast.d.ts1689660240026406151 0
 76/home/xaviju/Projects/2023/domenica/web/node_modules/micromatch/package.json1689660240173073024 0
 100/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/src/_skip_first_generator_next.mjs1689660239829739207 0
-69/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist1689660240273073165 1
 94/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/TypedArrayElementType.js1689660239989739432 0
 74/home/xaviju/Projects/2023/domenica/web/node_modules/mdn-data/api/index.js1689660240166406348 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/helpers/maxSafeInteger.js1689660239999739446 0
@@ -3014,7 +3044,6 @@
 73/home/xaviju/Projects/2023/domenica/web/node_modules/tslib/tslib.es6.html1689660240323073235 0
 138/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/definition-syntax/SyntaxError.js1689660238476403967 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/lintSource.js1689660240286406517 0
-79/home/xaviju/Projects/2023/domenica/web/node_modules/@types/minimist/index.d.ts1689660239829739207 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/IsPromise.js1689660239953072714 0
 68/home/xaviju/Projects/2023/domenica/web/node_modules/@types/minimist1689660239829739207 1
 74/home/xaviju/Projects/2023/domenica/web/node_modules/resolve/.editorconfig1689660240256406475 0
@@ -3299,7 +3328,6 @@
 92/home/xaviju/Projects/2023/domenica/web/node_modules/resolve/test/resolver/quux/foo/index.js1689660240259739813 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/vocabularies/jtd/metadata.d.ts1689660239843072559 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/RE.js1689660239886405953 0
-66/home/xaviju/Projects/2023/domenica/web/node_modules/slash/license1689660240273073165 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/LU.js1689660239883072615 0
 64/home/xaviju/Projects/2023/domenica/web/node_modules/safe-buffer1689660240266406489 1
 101/home/xaviju/Projects/2023/domenica/web/node_modules/camelcase-keys/node_modules/type-fest/index.d.ts1689660239856405911 0
@@ -3384,7 +3412,7 @@
 96/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/helpers/isPropertyDescriptor.js1689660239999739446 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/CK.js1689660239879739277 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/IsBigIntElementType.js1689660239976406080 0
-66/home/xaviju/Projects/2023/domenica/web/dist/index.d9334dbc.js.map1689667299669125508 0
+66/home/xaviju/Projects/2023/domenica/web/dist/index.d9334dbc.js.map1689667525476139848 0
 117/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/dist/csstree.min.js1689660238529737375 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/RS.js1689660239886405953 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/IT.js1689660239883072615 0
@@ -3475,7 +3503,7 @@
 97/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/rel-noreferrer.js1689660239873072601 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/accelerometer.js1689660239856405911 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/rimraf/dist/mjs/opt-arg.d.ts.map1689660240263073151 0
-128/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/remotes/origin1689666913028543740 1
+128/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/remotes/origin1689667303972465426 1
 82/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2019/IsInteger.js1689660239966406066 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/_/_class_name_tdz_error1689660239806405841 1
 94/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/import-maps.js1689660239869739263 0
@@ -3590,7 +3618,6 @@
 96/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/CreateListFromArrayLike.js1689660239949739376 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/jackspeak/dist/mjs/parse-args.d.ts1689660240049739517 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/colr-v1.js1689660239859739249 0
-67/home/xaviju/Projects/2023/domenica/web/node_modules/slash/index.js1689660240273073165 0
 119/home/xaviju/Projects/2023/domenica/web/node_modules/camelcase-keys/node_modules/type-fest/source/conditional-pick.d.ts1689660239856405911 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/IsInteger.js1689660239949739376 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/svgo/plugins/convertPathData.js1689660240313073221 0
@@ -3618,6 +3645,7 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/lmdb/dependencies/lz4/lib/lz4frame.c1689660240153072996 0
 94/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/vocabularies/format/index.js.map1689660239843072559 0
 99/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-text-justify.js1689660239866405925 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/65/097c2aeda7813dd203ccb52080273477d891271689667302069129180 0
 107/home/xaviju/Projects/2023/domenica/web/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/LICENSE-MIT.txt1689660240333073249 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/CreateDataProperty.js1689660239953072714 0
 66/home/xaviju/Projects/2023/domenica/web/node_modules/pify/index.js1689660240199739728 0
@@ -3729,7 +3757,6 @@
 91/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/value-keyword-case1689660240303073207 1
 68/home/xaviju/Projects/2023/domenica/web/node_modules/redent/index.js1689660240253073137 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/supports-color/license1689660240309739883 0
-80/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/.eslintrc1689660240266406489 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/KI.js1689660239883072615 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/tls1-2.js1689660239876405939 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/is-boolean-object/README.md1689660240043072841 0
@@ -3760,7 +3787,6 @@
 97/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-appearance.js1689660239859739249 0
 77/home/xaviju/Projects/2023/domenica/web/node_modules/node-addon-api/README.md1689660240176406362 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/5/IsCallable.js1689660239996406108 0
-83/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/package.json1689660240266406489 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/node-gyp-build-optional-packages/optional.js1689660240179739700 0
 99/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-supports-api.js1689660239863072587 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/get-symbol-description/index.js1689660240023072813 0
@@ -3772,7 +3798,7 @@
 75/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/5/floor.js1689660239996406108 0
 62/home/xaviju/Projects/2023/domenica/web/node_modules/@mischnic1689660238296403713 1
 77/home/xaviju/Projects/2023/domenica/web/node_modules/function-bind/.jscs.json1689660240019739475 0
-123/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/COMMIT_EDITMSG1689666911305207870 0
+123/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/COMMIT_EDITMSG1689667302095795888 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/AZ.js1689660239879739277 0
 103/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/prefers-color-scheme.js1689660239873072601 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/csso/cjs/restructure/7-mergeRuleset.cjs1689660239923072672 0
@@ -4194,6 +4220,7 @@
 106/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/background-position-x-y.js1689660239859739249 0
 119/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/css/at-rules.json1689660238486403981 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/ValidateIntegerTypedArray.js1689660239983072756 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/6e/c3937b240cb9c49cd163fdb9bec64e23cd35321689667302095795888 0
 67/home/xaviju/Projects/2023/domenica/web/node_modules/merge2/LICENSE1689660240169739686 0
 73/home/xaviju/Projects/2023/domenica/web/node_modules/parse-json/readme.md1689660240193073052 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/make-dir/node_modules/semver/semver.js1689666826485083837 0
@@ -4235,6 +4262,7 @@
 122/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/entities/lib/generated/decode-data-xml.js.map1689660239906405982 0
 63/home/xaviju/Projects/2023/domenica/web/node_modules/path-parse1689660240193073052 1
 95/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/AddEntriesFromIterable.js1689660239976406080 0
+126/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.a9e3600a.css.map1689667302059129165 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/css-tree/lib/syntax/config/mix.js1689660239916405996 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/has-property-descriptors/LICENSE1689660240033072827 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/has-property-descriptors/index.js1689660240033072827 0
@@ -4296,8 +4324,6 @@
 98/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/vocabularies/validation/multipleOf.ts1689660239849739235 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2019/TrimString.js1689660239969739404 0
 120/home/xaviju/Projects/2023/domenica/web/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi108.glibc.node1689660238296403713 0
-98/home/xaviju/Projects/2023/domenica/web/node_modules/csso/lib/restructure/2-initialMergeRuleset.js1689660239926406010 0
-99/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/package-manager/src/JSONParseStream.js1689660238546404065 0
 107/home/xaviju/Projects/2023/domenica/web/node_modules/has-tostringtag/test/shams/get-own-property-symbols.js1689660240033072827 0
 73/home/xaviju/Projects/2023/domenica/web/node_modules/graceful-fs/clone.js1689660240033072827 0
 94/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-lch-lab.js1689660239863072587 0
@@ -4446,6 +4472,7 @@
 106/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/data1689660238473070629 1
 82/home/xaviju/Projects/2023/domenica/web/node_modules/csso/lib/replace/Dimension.js1689660239926406010 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/safe-buffer/LICENSE1689660240266406489 0
+133/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/remotes/origin/main1689667302002462411 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/BigInt/subtract.js1689660239969739404 0
 105/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/no-invalid-double-slash-comments1689660240296406531 1
 107/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/workers/test/integration/workerfarm/logging.js1689660239329738503 0
@@ -4521,7 +4548,7 @@
 91/home/xaviju/Projects/2023/domenica/web/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js1689660240329739911 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/tslib/tslib.es6.mjs1689660240323073235 0
 73/home/xaviju/Projects/2023/domenica/web/node_modules/astral-regex/license1689660239853072573 0
-52/home/xaviju/Projects/2023/domenica/web/package.json1689667262155734854 0
+52/home/xaviju/Projects/2023/domenica/web/package.json1689667504109440117 0
 135/home/xaviju/Projects/2023/domenica/web/node_modules/@csstools/css-parser-algorithms/dist/consume/consume-component-block-function.d.ts1689660238273070347 0
 78/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/cjs/_get.cjs1689660239819739193 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/refs/json-schema-2020-121689660239836405883 1
@@ -4566,6 +4593,7 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/is-number-object/.github/FUNDING.yml1689660240046406179 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/path-scurry/dist/mjs/index.d.ts1689660240196406390 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/GP.js1689660239883072615 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/8d1689667302069129180 1
 84/home/xaviju/Projects/2023/domenica/web/node_modules/string.prototype.trim/README.md1689660240283073179 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/declarationValueIndex.js1689660240303073207 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/utils/test/prettifyTime.test.js1689660239323071827 0
@@ -4579,6 +4607,8 @@
 84/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/unicode-bom1689660240303073207 1
 68/home/xaviju/Projects/2023/domenica/web/node_modules/clone/clone.iml1689660239889739292 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/lib/buildCache.js1689660238323070417 0
+59/home/xaviju/Projects/2023/domenica/web/node_modules/semver1689660240269739827 1
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/981689667302069129180 1
 99/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/lib/_skip_first_generator_next.js1689660239826405869 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/uri-js/dist/esnext/schemes/wss.d.ts1689660240329739911 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/resolve-from/readme.md1689660240256406475 0
@@ -4667,9 +4697,10 @@
 92/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/IsBigIntElementType.js1689660239993072770 0
 116/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/selector-pseudo-class-allowed-list/index.js1689660240299739869 0
 99/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/validateObjectWithProps.js1689660240306406545 0
-66/home/xaviju/Projects/2023/domenica/web/dist/index.3b93c773.js.map1689667299669125508 0
+66/home/xaviju/Projects/2023/domenica/web/dist/index.3b93c773.js.map1689667525476139848 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/@nodelib/fs.stat/out/settings.d.ts1689660238299737051 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-svg/src1689660239306405136 1
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/781689667301872462212 1
 123/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/collapseGroups.js1689660238496403995 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/vocabularies/next.ts1689660239849739235 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/SecFromTime.js1689660239949739376 0
@@ -4842,7 +4873,6 @@
 112/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/selector-attribute-operator-space-after1689660240299739869 1
 98/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/x-doc-messaging.js1689660239876405939 0
 120/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/shorthand-property-no-redundant-values/index.js1689660240303073207 0
-80/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/README.md1689660240266406489 0
 103/home/xaviju/Projects/2023/domenica/web/node_modules/csso/node_modules/css-tree/lib/convertor/create.js1689660239933072686 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/is-boolean-object/.eslintrc1689660240043072841 0
 74/home/xaviju/Projects/2023/domenica/web/node_modules/htmlparser2/README.md1689660240039739503 0
@@ -5216,7 +5246,6 @@
 112/home/xaviju/Projects/2023/domenica/web/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_dump.11689660240146406320 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/getCacheFile.js1689660240303073207 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/lightningcss-linux-x64-gnu/package.json1689660240099739587 0
-121/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.84b39646.js1689666911265207811 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/lib/_interop_require_wildcard.js1689660239826405869 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/IL.js1689660239883072615 0
 112/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/_/_class_extract_field_descriptor/package.json1689660239806405841 0
@@ -5232,7 +5261,7 @@
 104/home/xaviju/Projects/2023/domenica/web/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_load.c1689660240149739658 0
 73/home/xaviju/Projects/2023/domenica/web/node_modules/json5/lib/index.d.ts1689660240056406193 0
 104/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/esm/pseudo-selectors/subselects.d.ts1689660239899739306 0
-44/home/xaviju/Projects/2023/domenica/web/dist1689667299669125508 1
+44/home/xaviju/Projects/2023/domenica/web/dist1689667525476139848 1
 97/home/xaviju/Projects/2023/domenica/web/node_modules/lmdb/dependencies/v8/v8-fast-api-calls-v16.h1689660240153072996 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/@nodelib/fs.scandir/out/types1689660238296403713 1
 81/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/ToObject.js1689660239973072742 0
@@ -5332,6 +5361,7 @@
 99/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/keyframe-selector-notation1689660240293073193 1
 75/home/xaviju/Projects/2023/domenica/web/node_modules/domutils/lib/legacy.js1689660239943072700 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/CreateDataProperty.js1689660239949739376 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/20/de0c9753bd09548437922c93e1f266ef8061061689667301875795551 0
 94/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/ol-reversed.js1689660239873072601 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils1689660240306406545 1
 106/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/property-disallowed-list/index.js1689660240299739869 0
@@ -5373,7 +5403,6 @@
 104/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-media-interaction.js1689660239863072587 0
 77/home/xaviju/Projects/2023/domenica/web/node_modules/mathml-tag-names/license1689660240166406348 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/uri-js/dist/esnext/index.d.ts1689660240326406573 0
-88/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/browser.js.map1689660240273073165 0
 100/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/isUnicodeRangeDescriptor.js1689660240306406545 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/yallist/iterator.js1689660240336406587 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/camelcase-keys/node_modules/type-fest/license1689660239856405911 0
@@ -5417,7 +5446,7 @@
 94/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/input-event.js1689660239869739263 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/ToNumeric.js1689660239986406094 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/ObjectDefineProperties.js1689660239993072770 0
-108/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git1689666911305207870 1
+108/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git1689667302095795888 1
 117/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/function-parentheses-newline-inside/index.js1689660240293073193 0
 65/home/xaviju/Projects/2023/domenica/web/node_modules/nanoid/async1689660240176406362 1
 67/home/xaviju/Projects/2023/domenica/web/node_modules/async/times.js1689666826541750586 0
@@ -5488,7 +5517,7 @@
 79/home/xaviju/Projects/2023/domenica/web/node_modules/uri-js/dist/esnext/util.js1689660240329739911 0
 70/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/cache/src1689660238299737051 1
 90/home/xaviju/Projects/2023/domenica/web/node_modules/gh-pages/node_modules/globby/index.js1689666826521750557 0
-39/home/xaviju/Projects/2023/domenica/web1689667299632458785 1
+39/home/xaviju/Projects/2023/domenica/web1689667525449473140 1
 104/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/vocabularies/validation/limitLength.js.map1689660239843072559 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/KR.js1689660239883072615 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/custom-media-pattern1689660240289739855 1
@@ -5569,6 +5598,7 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/Number/remainder.js1689660239979739418 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/CreateListFromArrayLike.js1689660239953072714 0
 65/home/xaviju/Projects/2023/domenica/web/node_modules/htmlnano/lib1689660240039739503 1
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/8d/793b2f2ea57155c15bd74557e85b78d4800c8e1689667302069129180 0
 102/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-descendant-gtgt.js1689660239863072587 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/sort.js1689660239899739306 0
 109/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/runtime-react-refresh/src/ReactRefreshRuntime.js1689660238569737432 0
@@ -5628,7 +5658,6 @@
 96/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/ambient-light.js1689660239859739249 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/@nodelib/fs.walk/out/providers/sync.d.ts1689660238299737051 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/domutils/readme.md1689660239903072644 0
-91/home/xaviju/Projects/2023/domenica/web/node_modules/validate-npm-package-license/README.md1689660240329739911 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/postcss/lib/declaration.d.ts1689660240203073066 0
 77/home/xaviju/Projects/2023/domenica/web/node_modules/dotenv-expand/index.d.ts1689660239943072700 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/table/node_modules/ansi-regex/index.d.ts1689660240319739897 0
@@ -5651,7 +5680,7 @@
 83/home/xaviju/Projects/2023/domenica/web/node_modules/which-typed-array/CHANGELOG.md1689660240333073249 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/typed-array-buffer/package.json1689660240323073235 0
 111/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/value-list-comma-space-before/index.js1689660240303073207 0
-55/home/xaviju/Projects/2023/domenica/web/dist/index.html1689667299655792154 0
+55/home/xaviju/Projects/2023/domenica/web/dist/index.html1689667525466139832 0
 101/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/pseudo-selectors/pseudos.d.ts.map1689660239899739306 0
 104/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/pseudo-selectors/subselects.d.ts.map1689660239899739306 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/is-array-buffer/CHANGELOG.md1689660240043072841 0
@@ -5674,7 +5703,6 @@
 82/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/substring.js1689660239989739432 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/NumberBitwiseOp.js1689660239973072742 0
 70/home/xaviju/Projects/2023/domenica/web/node_modules/boolbase/index.js1689660239853072573 0
-69/home/xaviju/Projects/2023/domenica/web/node_modules/wrappy/wrappy.js1689660240333073249 0
 132/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web/parcel_sourcemap_wasm_bg.wasm1689660238596404136 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/Number/unaryMinus.js1689660239993072770 0
 77/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/formatters1689660240286406517 1
@@ -5889,7 +5917,6 @@
 87/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/putIfAbsent.js1689660240306406545 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/typed-array-byte-length/index.js1689660240323073235 0
 103/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/IsCompatiblePropertyDescriptor.js1689660239976406080 0
-73/home/xaviju/Projects/2023/domenica/web/node_modules/decamelize/readme.md1689660239939739362 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2018/DetachArrayBuffer.js1689660239959739390 0
 101/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/permissions-policy.js1689660239873072601 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/esm/index.js1689660239899739306 0
@@ -5954,7 +5981,6 @@
 98/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/selector-max-pseudo-class1689660240299739869 1
 85/home/xaviju/Projects/2023/domenica/web/node_modules/css-tree/lib/convertor/create.js1689660239916405996 0
 73/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/vocabularies1689660239849739235 1
-82/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/index.js1689660240273073165 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/IteratorClose.js1689660239953072714 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/Number/toString.js1689660239986406094 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/form-attribute.js1689660239866405925 0
@@ -5990,7 +6016,6 @@
 74/home/xaviju/Projects/2023/domenica/web/node_modules/fs.realpath/README.md1689660240019739475 0
 108/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/media-feature-name-no-vendor-prefix1689660240296406531 1
 84/home/xaviju/Projects/2023/domenica/web/node_modules/es-set-tostringtag/CHANGELOG.md1689660239999739446 0
-84/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/test/index.js1689660240266406489 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/ArraySetLength.js1689660239969739404 0
 111/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-js/parcel-swc.linux-arm-gnueabihf.node1689660238846404488 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2017/DateFromTime.js1689660239956406052 0
@@ -6037,7 +6062,6 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/ordered-binary/assets/powers-dre.png1689660240193073052 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2018/SecFromTime.js1689660239963072728 0
 101/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/entities/lib/decode.d.ts1689660239903072644 0
-106/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/domutils/lib/traversal.js.map1689660239903072644 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/TypedArrayCreate.js1689660239956406052 0
 104/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/media-feature-colon-space-after1689660240296406531 1
 80/home/xaviju/Projects/2023/domenica/web/node_modules/postcss/lib/previous-map.js1689660240206406404 0
@@ -6069,6 +6093,9 @@
 88/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/color-hex-alpha1689660240289739855 1
 59/home/xaviju/Projects/2023/domenica/web/node_modules/colord1689660239893072630 1
 89/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2017/IteratorComplete.js1689660239956406052 0
+98/home/xaviju/Projects/2023/domenica/web/node_modules/csso/lib/restructure/2-initialMergeRuleset.js1689660239926406010 0
+99/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/package-manager/src/JSONParseStream.js1689660238546404065 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/fb/ade4038a8b99bb4d0b452644d1a35797c90e3c1689667301885795566 0
 101/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/domutils/lib/legacy.d.ts1689660239903072644 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/runtime-js/src/helpers/cacheLoader.js1689660238566404094 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/nth-check/lib/index.d.ts.map1689660240183073038 0
@@ -6130,8 +6157,6 @@
 72/home/xaviju/Projects/2023/domenica/web/node_modules/make-dir/index.d.ts1689666826475083822 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/fs-extra/lib/copy-sync/index.js1689666826491750513 0
 100/home/xaviju/Projects/2023/domenica/web/node_modules/foreground-child/node_modules/path-key/index.js1689660240019739475 0
-76/home/xaviju/Projects/2023/domenica/web/node_modules/unbox-primitive/LICENSE1689660240326406573 0
-75/home/xaviju/Projects/2023/domenica/web/node_modules/strip-bom/package.json1689660240283073179 0
 110/home/xaviju/Projects/2023/domenica/web/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/package.json1689660238296403713 0
 108/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/media-feature-name-value-no-unknown1689660240296406531 1
 98/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/ToZeroPaddedDecimalString.js1689660239989739432 0
@@ -6259,7 +6284,7 @@
 84/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/ToBigUint64.js1689660239973072742 0
 94/home/xaviju/Projects/2023/domenica/web/node_modules/table/node_modules/string-width/readme.md1689660240319739897 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/@babel/highlight/node_modules/chalk/license1689660238269737009 0
-63/home/xaviju/Projects/2023/domenica/web/dist/index.a9e3600a.css1689667299662458831 0
+63/home/xaviju/Projects/2023/domenica/web/dist/index.a9e3600a.css1689667525472806509 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/foreground-child/node_modules/.bin/node-which1689660240016406137 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2019/IsArray.js1689660239966406066 0
 107/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/utils1689660238533070713 1
@@ -6460,7 +6485,6 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/csso/node_modules/css-tree/cjs/utils1689660239929739348 1
 97/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/at-rule-no-vendor-prefix1689660240286406517 1
 113/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/declaration-block-semicolon-space-before1689660240289739855 1
-77/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/.nycrc1689660240266406489 0
 112/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/declaration-property-value-allowed-list1689660240293073193 1
 78/home/xaviju/Projects/2023/domenica/web/node_modules/is-boolean-object/.github1689660240043072841 1
 90/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/getFileIgnorer.js1689660240303073207 0
@@ -6529,7 +6553,6 @@
 79/home/xaviju/Projects/2023/domenica/web/node_modules/string-width-cjs/readme.md1689660240279739841 0
 111/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/selector-pseudo-element-colon-notation1689660240303073207 1
 74/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/cli.mjs1689660240286406517 0
-73/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs1689660240273073165 1
 66/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/graph1689660238413070544 1
 98/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/at-rule-empty-line-before1689660240286406517 1
 88/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/test/fixtures/main-mjs1689660238333070431 1
@@ -6695,6 +6718,8 @@
 75/home/xaviju/Projects/2023/domenica/web/node_modules/commondir/package.json1689666826458417132 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-paged-media.js1689660239863072587 0
 74/home/xaviju/Projects/2023/domenica/web/node_modules/js-yaml/lib/common.js1689660240053072855 0
+69/home/xaviju/Projects/2023/domenica/web/node_modules/wrappy/wrappy.js1689660240333073249 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/89/67b62b57478f53c1e73a1e5469b60baa7cd9651689667301872462212 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/contenteditable.js1689660239859739249 0
 103/home/xaviju/Projects/2023/domenica/web/node_modules/dom-serializer/node_modules/entities/lib/encode.js1689660239943072700 0
 119/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/block-closing-brace-empty-line-before/index.js1689660240289739855 0
@@ -6874,6 +6899,8 @@
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/SetFunctionLength.js1689660239973072742 0
 106/home/xaviju/Projects/2023/domenica/web/node_modules/meow/node_modules/type-fest/source/promise-value.d.ts1689660240169739686 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/QuoteJSONString.js1689660239973072742 0
+71/home/xaviju/Projects/2023/domenica/web/node_modules/is-bigint/index.js1689660240043072841 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/201689667301875795551 1
 93/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2017/CreateMethodProperty.js1689660239956406052 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2019/OrdinaryToPrimitive.js1689660239966406066 0
 101/home/xaviju/Projects/2023/domenica/web/node_modules/meow/node_modules/type-fest/source/value-of.d.ts1689660240169739686 0
@@ -7047,7 +7074,6 @@
 98/home/xaviju/Projects/2023/domenica/web/node_modules/abortcontroller-polyfill/dist/umd-polyfill.js1689660239833072545 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/decamelize-keys/node_modules1689660239939739362 1
 81/home/xaviju/Projects/2023/domenica/web/node_modules/spdx-exceptions/package.json1689660240279739841 0
-90/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/signals.d.ts.map1689660240273073165 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2019/IsWordChar.js1689660239966406066 0
 88/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/dist/unpacker/index.js1689660239889739292 0
 100/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/pseudo-selectors/subselects.d.ts1689660239899739306 0
@@ -7183,8 +7209,6 @@
 69/home/xaviju/Projects/2023/domenica/web/node_modules/has-symbols/test1689660240033072827 1
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/RawBytesToNumeric.js1689660239973072742 0
 64/home/xaviju/Projects/2023/domenica/web/node_modules/js-yaml/bin1689660240053072855 1
-97/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/source-map/parcel_sourcemap_node/src1689660238593070798 1
-69/home/xaviju/Projects/2023/domenica/web/node_modules/slash/index.d.ts1689660240273073165 0
 102/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/UTF16SurrogatePairToCodePoint.js1689660239983072756 0
 104/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/dom-serializer/lib/index.js1689660239899739306 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/rimraf/dist/mjs/rimraf-posix.js1689660240266406489 0
@@ -7267,7 +7291,6 @@
 84/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2018/HasProperty.js1689660239959739390 0
 76/home/xaviju/Projects/2023/domenica/web/node_modules/js-yaml/lib/type/set.js1689660240053072855 0
 76/home/xaviju/Projects/2023/domenica/web/node_modules/js-yaml/lib/type/int.js1689660240053072855 0
-84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/index.d.ts1689660240273073165 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/js-yaml/lib/type/timestamp.js1689660240053072855 0
 110/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/workers/test/integration/workerfarm/master-sum.js1689660239329738503 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/src/public/MutableBundleGraph.js1689660238326403755 0
@@ -7298,6 +7321,8 @@
 120/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc-json51689660238329737093 0
 128/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/property/background.js1689660238536404051 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/webnfc.js1689660239876405939 0
+79/home/xaviju/Projects/2023/domenica/web/node_modules/@types/minimist/index.d.ts1689660239829739207 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/351689667302069129180 1
 81/home/xaviju/Projects/2023/domenica/web/node_modules/supports-hyperlinks/index.js1689660240309739883 0
 61/home/xaviju/Projects/2023/domenica/web/node_modules/fs-extra1689666826481750499 1
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/Number/bitwiseNOT.js1689660239973072742 0
@@ -7429,7 +7454,6 @@
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2018/YearFromTime.js1689660239963072728 0
 68/home/xaviju/Projects/2023/domenica/web/node_modules/srcset/index.js1689660240279739841 0
 76/home/xaviju/Projects/2023/domenica/web/node_modules/is-fullwidth-code-point1689660240046406179 1
-73/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs1689660240273073165 1
 74/home/xaviju/Projects/2023/domenica/web/node_modules/color-convert/LICENSE1689660239893072630 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/is-fullwidth-code-point/package.json1689660240046406179 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/test/PublicDependency.test.js1689660238329737093 0
@@ -7457,7 +7481,7 @@
 73/home/xaviju/Projects/2023/domenica/web/node_modules/svgo/lib/svgo/coa.js1689660240313073221 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/gyroscope.js1689660239869739263 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/source-map/lib/base64-vlq.js1689660240276406503 0
-119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/FETCH_HEAD1689666910748540384 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/FETCH_HEAD1689667302002462411 0
 104/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/isStandardSyntaxMathFunction.js1689660240306406545 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2021/IsPropertyKey.js1689660239979739418 0
 79/home/xaviju/Projects/2023/domenica/web/node_modules/trim-newlines/package.json1689660240319739897 0
@@ -7808,7 +7832,6 @@
 71/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/plugin/src1689660238553070741 1
 88/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/compile/codegen/index.d.ts1689660239833072545 0
 106/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/dom-serializer/lib/index.d.ts1689660239899739306 0
-90/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/browser.d.ts.map1689660240273073165 0
 103/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/esm/pseudo-selectors/index.d.ts.map1689660239899739306 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/@lmdb/lmdb-linux-x64/index.js1689660238279737023 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/lib/_ts_values.js1689660239826405869 0
@@ -7856,7 +7879,6 @@
 105/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/domutils/lib/legacy.d.ts.map1689660239903072644 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/table/dist/src/mapDataUsingRowHeights.js1689660240316406559 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/nodeContextLookup.js1689660240306406545 0
-98/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/runtime-browser-hmr/src/HMRRuntime.js1689660238566404094 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/email-addresses/test/tests.xml1689666826508417204 0
 77/home/xaviju/Projects/2023/domenica/web/node_modules/emoji-regex/RGI_Emoji.js1689660239946406038 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/import-lazy/license1689660240039739503 0
@@ -7934,6 +7956,8 @@
 107/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/domutils/lib/manipulation.d.ts1689660239903072644 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/DateFromTime.js1689660239953072714 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/email-addresses/lib/email-addresses.js1689666826488417175 0
+106/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/domutils/lib/traversal.js.map1689660239903072644 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/761689667301872462212 1
 103/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/spellcheck-attribute.js1689660239873072601 0
 105/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/keyboardevent-charcode.js1689660239869739263 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/fs-extra/lib/copy-sync1689666826488417175 1
@@ -8039,6 +8063,7 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/package-manager/lib/index.js1689660238546404065 0
 105/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-background-offsets.js1689660239859739249 0
 106/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/domhandler/lib/index.d.ts.map1689660239903072644 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/98/b4babb42aebb628f0fb532690e75d32d524dc11689667302069129180 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/css-tree/cjs/syntax/config/walker.cjs1689660239909739320 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/regions/TR.js1689660239889739292 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/CopyDataProperties.js1689660239969739404 0
@@ -8164,7 +8189,7 @@
 66/home/xaviju/Projects/2023/domenica/web/node_modules/dotenv-expand1689660239943072700 1
 90/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/vocabularies/jtd/type.js.map1689660239843072559 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/is-fullwidth-code-point/license1689660240046406179 0
-62/home/xaviju/Projects/2023/domenica/web/dist/index.d9334dbc.js1689667299662458831 0
+62/home/xaviju/Projects/2023/domenica/web/dist/index.d9334dbc.js1689667525472806509 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/@nodelib/fs.walk/out/providers/sync.js1689660238299737051 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/pkg-dir/node_modules/locate-path/index.d.ts1689666826465083808 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/block-no-empty/index.js1689660240289739855 0
@@ -8240,6 +8265,9 @@
 91/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/dist/unpacker/features.js1689660239889739292 0
 106/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/comparedocumentposition.js1689660239859739249 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/foreground-child/dist/cjs/index.d.ts.map1689660240016406137 0
+86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/package.json1689660240273073165 0
+74/home/xaviju/Projects/2023/domenica/web/node_modules/fs-extra/lib/index.js1689666826511750542 0
+118/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/font-family-no-missing-generic-family-keyword1689660240293073193 1
 88/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/proxy.js1689660239873072601 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/ToPrimitive.js1689660239996406108 0
 89/home/xaviju/Projects/2023/domenica/web/node_modules/regexp.prototype.flags/test/tests.js1689660240253073137 0
@@ -8398,7 +8426,6 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/test/fixtures/bundle.js1689660238329737093 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/htmlnano/docs/docs/010-introduction.md1689660240036406165 0
 65/home/xaviju/Projects/2023/domenica/web/node_modules/svg-tags/lib1689660240309739883 1
-88/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/index.d.ts.map1689660240273073165 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/css-tree/cjs/syntax/node/MediaQueryList.cjs1689660239909739320 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/htmlnano/docs/versions.json1689660240036406165 0
 66/home/xaviju/Projects/2023/domenica/web/node_modules/fastq/.github1689660240006406123 1
@@ -8437,7 +8464,7 @@
 103/home/xaviju/Projects/2023/domenica/web/node_modules/htmlnano/lib/modules/deduplicateAttributeValues.js1689660240036406165 0
 94/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/function-allowed-list1689660240293073193 1
 74/home/xaviju/Projects/2023/domenica/web/node_modules/chalk/source/index.js1689660239889739292 0
-137/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/remotes/origin/gh-pages1689666913028543740 0
+137/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/remotes/origin/gh-pages1689667303969132088 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/unit-case/index.js1689660240303073207 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/htmlnano/lib/modules/removeAttributeQuotes.js1689660240039739503 0
 71/home/xaviju/Projects/2023/domenica/web/node_modules/async/unmemoize.js1689666826541750586 0
@@ -8517,12 +8544,11 @@
 100/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/reporter-dev-server/src/serverErrors.js1689660238566404094 0
 67/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/events1689660238333070431 1
 87/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/vocabularies/jtd/values.ts1689660239849739235 0
-113/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/HEAD1689666910975207384 0
+113/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/HEAD1689667302025795780 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/events/lib/types.js1689660238333070431 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/MonthFromTime.js1689660239953072714 0
 132/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/restructure/6-restructBlock.js1689660238486403981 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/events/lib/ValueEmitter.js1689660238333070431 0
-80/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/events/lib/index.js1689660238333070431 0
 71/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/events/src1689660238333070431 1
 80/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/events/src/types.js1689660238333070431 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/events/src/Disposable.js1689660238333070431 0
@@ -8627,6 +8653,7 @@
 101/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-babel/lib/babelErrorUtils.js1689660238596404136 0
 69/home/xaviju/Projects/2023/domenica/web/node_modules/svgo/lib/xast.js1689660240313073221 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-babel/lib/constants.js1689660238596404136 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/6e1689667302095795888 1
 103/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-babel/lib/remapAstLocations.js1689660238596404136 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-babel/lib/babel7.js1689660238596404136 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-babel/src/config.js1689660238596404136 0
@@ -8740,7 +8767,7 @@
 70/home/xaviju/Projects/2023/domenica/web/node_modules/globjoin/index.js1689660240029739489 0
 122/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/package-manager/test/fixtures/has-foo/subpackage/package.json1689660238549737403 0
 131/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/addClassesToSVGElement.js1689660238496403995 0
-115/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/config1689666911288541179 0
+115/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/config1689667302082462534 0
 111/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules1689660238549737403 1
 89/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/vocabularies/jtd/error.d.ts1689660239843072559 0
 115/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo1689660238549737403 1
@@ -8755,8 +8782,6 @@
 96/home/xaviju/Projects/2023/domenica/web/node_modules/glob/node_modules/minimatch/dist/mjs/ast.js1689660240029739489 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/package-manager/test/fixtures/empty1689660238549737403 1
 110/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/csso/dist/csso.min.js1689660238536404051 0
-90/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/isScssVariable.js1689660240306406545 0
-82/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/utils/src/throttle.js1689660239323071827 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/InLeapYear.js1689660239983072756 0
 76/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-image1689660238523070699 1
 67/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/fs/lib1689660238409737206 1
@@ -8839,6 +8864,7 @@
 103/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/utils/test/input/sourcemap/no-sourcemap.js1689660239323071827 0
 103/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/esm/_unsupported_iterable_to_array.js1689660239826405869 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/utils/test/input/sourcemap/inline.js1689660239323071827 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/16/8ccb8f3b5fdbaf721c394a84785b859ed780781689667301889128905 0
 102/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/utils/test/input/sourcemap/source-root.js1689660239323071827 0
 102/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/IsUnclampedIntegerElementType.js1689660239986406094 0
 118/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/walker/create.js1689660238533070713 0
@@ -8971,6 +8997,9 @@
 84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/signals.js1689660240273073165 0
 79/home/xaviju/Projects/2023/domenica/web/node_modules/utility-types/package.json1689660240329739911 0
 67/home/xaviju/Projects/2023/domenica/web/node_modules/arrify/license1689660239853072573 0
+90/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/.github/FUNDING.yml1689660240266406489 0
+92/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/selector-id-pattern1689660240299739869 1
+83/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/lib/Validation.js1689660238323070417 0
 71/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/2019.d.ts1689660239833072545 0
 111/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/sort.js1689660238526404037 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/lib/dumpGraphToGraphViz.js1689660238323070417 0
@@ -8978,6 +9007,7 @@
 93/home/xaviju/Projects/2023/domenica/web/node_modules/@csstools/css-tokenizer/dist/code-points1689660238273070347 1
 69/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/src1689660238329737093 1
 84/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/src/Environment.js1689660238326403755 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/361689667302069129180 1
 95/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/src/serializerCore.browser.js1689660238329737093 0
 71/home/xaviju/Projects/2023/domenica/web/node_modules/msgpackr/stream.js1689660240176406362 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/5/CheckObjectCoercible.js1689660239996406108 0
@@ -9281,9 +9311,6 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/css-tree/cjs/syntax/pseudo/index.cjs1689660239913072658 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/ttf.js1689660239876405939 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/fast-glob/package.json1689660240006406123 0
-94/home/xaviju/Projects/2023/domenica/web/node_modules/rimraf/dist/mjs/readdir-or-error.d.ts.map1689660240266406489 0
-87/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2020/PromiseResolve.js1689660239973072742 0
-78/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/.github1689660240266406489 1
 82/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/profiler/src/Trace.js1689660238553070741 0
 109/home/xaviju/Projects/2023/domenica/web/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/CHANGES1689660240143072982 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2016/ToPropertyDescriptor.js1689660239956406052 0
@@ -9312,7 +9339,6 @@
 103/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select1689660238473070629 1
 116/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/package.json1689660238473070629 0
 102/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web1689660238596404136 1
-84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/browser.js1689660240273073165 0
 107/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib1689660238473070629 1
 107/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/esm/_class_check_private_static_access.js1689660239823072531 0
 124/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/compile.d.ts.map1689660238469737291 0
@@ -9584,6 +9610,7 @@
 103/home/xaviju/Projects/2023/domenica/web/node_modules/meow/node_modules/normalize-package-data/README.md1689660240169739686 0
 98/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/insert-adjacent.js1689660239869739263 0
 129/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Operator.js1689660238479737305 0
+122/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.a9e3600a.css1689667302059129165 0
 65/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers1689660239829739207 1
 129/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Function.js1689660238479737305 0
 131/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/IdSelector.js1689660238479737305 0
@@ -9759,7 +9786,7 @@
 129/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-x64-musl.node1689660238593070798 0
 128/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-x64-gnu.node1689660238589737460 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/table/node_modules/string-width/package.json1689660240319739897 0
-142/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/remotes/origin/gh-pages1689666913028543740 0
+142/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/remotes/origin/gh-pages1689667303969132088 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-babel/src/utils.js1689660238596404136 0
 127/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.darwin-arm64.node1689660238573070770 0
 68/home/xaviju/Projects/2023/domenica/web/node_modules/braces/index.js1689660239853072573 0
@@ -9824,6 +9851,9 @@
 104/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/src/_unsupported_iterable_to_array.mjs1689660239829739207 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/namer-default/LICENSE1689660238416403882 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/logger/package.json1689660238416403882 0
+86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/browser.d.ts1689660240273073165 0
+78/home/xaviju/Projects/2023/domenica/web/node_modules/fs-extra/lib/util/stat.js1689666826525083895 0
+72/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/logger/test1689660238416403882 1
 116/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/procedure.js1689660238523070699 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/StringCreate.js1689660239993072770 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/logger/test/Logger.test.js1689660238416403882 0
@@ -9862,6 +9892,9 @@
 89/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/core-linux-x64-gnu/package.json1689660239333071841 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/packager-js/src/helpers.js1689660238549737403 0
 91/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/packager-js/src/.eslintrc.json1689660238549737403 0
+90/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/isScssVariable.js1689660240306406545 0
+82/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/utils/src/throttle.js1689660239323071827 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/891689667301889128905 1
 95/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/packager-js/src/CJSOutputFormat.js1689660238549737403 0
 108/home/xaviju/Projects/2023/domenica/web/node_modules/meow/node_modules/normalize-package-data/lib/typos.json1689660240169739686 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/global-modules/package.json1689660240029739489 0
@@ -9872,7 +9905,7 @@
 79/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/lib1689660238523070699 1
 102/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/entities/lib/index.js.map1689660239906405982 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/lib/SVGOOptimizer.js1689660238523070699 0
-103/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git1689666911261874473 1
+103/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git1689667302055795826 1
 83/home/xaviju/Projects/2023/domenica/web/node_modules/fastq/.github/workflows/ci.yml1689660240006406123 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/dist/vocabularies/applicator/thenElse.js1689660239839739221 0
 79/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/src1689660238546404065 1
@@ -9920,6 +9953,8 @@
 93/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/.bin1689660238523070699 1
 93/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/array-flat.js1689660239859739249 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/svgo1689660238543070727 1
+67/home/xaviju/Projects/2023/domenica/web/node_modules/is-symbol/test1689660240049739517 1
+118/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/ORIG_HEAD1689667302039129134 0
 106/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css-hanging-punctuation.js1689660239863072587 0
 113/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/node_modules/dom-serializer/lib/foreignNames.d.ts1689660239899739306 0
 117/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/inlineStyles.js1689660238543070727 0
@@ -9983,7 +10018,6 @@
 124/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeEditorsNSData.js1689660238543070727 0
 117/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/minifyStyles.js1689660238543070727 0
 130/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/addAttributesToSVGElement.js1689660238543070727 0
-131/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeAttributesBySelector.js1689660238543070727 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/@isaacs/cliui/build1689660238276403685 1
 79/home/xaviju/Projects/2023/domenica/web/node_modules/has-tostringtag/test/shams1689660240033072827 1
 106/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/svgo/package.json1689660238543070727 0
@@ -10893,7 +10927,7 @@
 64/home/xaviju/Projects/2023/domenica/web/node_modules/.bin/parcel1689660238263070333 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/.bin/node-gyp-build-optional-packages1689660238263070333 0
 69/home/xaviju/Projects/2023/domenica/web/node_modules/.bin/npm-run-all1689660238263070333 0
-116/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects1689666911305207870 1
+116/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects1689667302095795888 1
 109/home/xaviju/Projects/2023/domenica/web/node_modules/string-width-cjs/node_modules/emoji-regex/es2015/text.js1689660240279739841 0
 70/home/xaviju/Projects/2023/domenica/web/node_modules/.bin/browserslist1689660238263070333 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/.bin/node-gyp-build-optional-packages-test1689660238263070333 0
@@ -10944,7 +10978,7 @@
 65/home/xaviju/Projects/2023/domenica/web/node_modules/is-plain-obj1689660240046406179 1
 129/home/xaviju/Projects/2023/domenica/web/node_modules/read-pkg-up/node_modules/type-fest/ts41/delimiter-cased-properties-deep.d.ts1689660240253073137 0
 74/home/xaviju/Projects/2023/domenica/web/node_modules/minipass/package.json1689660240173073024 0
-62/home/xaviju/Projects/2023/domenica/web/dist/index.3b93c773.js1689667299662458831 0
+62/home/xaviju/Projects/2023/domenica/web/dist/index.3b93c773.js1689667525472806509 0
 66/home/xaviju/Projects/2023/domenica/web/node_modules/minipass/dist1689660240173073024 1
 80/home/xaviju/Projects/2023/domenica/web/node_modules/css-tree/lib/lexer/error.js1689660239916405996 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/minipass/dist/cjs/package.json1689660240173073024 0
@@ -11042,6 +11076,7 @@
 61/home/xaviju/Projects/2023/domenica/web/node_modules/css-what1689660239919739334 1
 82/home/xaviju/Projects/2023/domenica/web/node_modules/nanoid/async/index.browser.js1689660240176406362 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/nanoid/async/index.native.js1689660240176406362 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/20/067d158a8172ac14517e4d84957741afbde5861689667301875795551 0
 68/home/xaviju/Projects/2023/domenica/web/node_modules/nanoid/index.js1689660240176406362 0
 112/home/xaviju/Projects/2023/domenica/web/node_modules/camelcase-keys/node_modules/type-fest/ts41/pascal-case.d.ts1689660239856405911 0
 67/home/xaviju/Projects/2023/domenica/web/node_modules/nanoid/LICENSE1689660240176406362 0
@@ -11133,6 +11168,7 @@
 86/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/utils/src/alternatives.js1689660239323071827 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/_/_apply_decorated_descriptor1689660239806405841 1
 86/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/vocabularies/jtd/index.ts1689660239849739235 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/741689667302069129180 1
 84/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/vocabularies/jtd/ref.ts1689660239849739235 0
 86/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/vocabularies/draft2020.ts1689660239846405897 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/vocabularies/unevaluated1689660239849739235 1
@@ -11215,7 +11251,6 @@
 79/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/refs/jtd-schema.ts1689660239846405897 0
 68/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/compile1689660239846405897 1
 72/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/compile/jtd1689660239846405897 1
-88/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/signals.js.map1689660240273073165 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/compile/jtd/parse.ts1689660239846405897 0
 61/home/xaviju/Projects/2023/domenica/web/node_modules/has/test1689660240033072827 1
 81/home/xaviju/Projects/2023/domenica/web/node_modules/ajv/lib/compile/jtd/types.ts1689660239846405897 0
@@ -11504,6 +11539,7 @@
 83/home/xaviju/Projects/2023/domenica/web/node_modules/normalize-package-data/AUTHORS1689660240179739700 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/css-select/lib/pseudo-selectors/filters.d.ts1689660239899739306 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/normalize-package-data/lib/normalize.js1689660240179739700 0
+125/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.3b93c773.js.map1689667302059129165 0
 94/home/xaviju/Projects/2023/domenica/web/node_modules/normalize-package-data/lib/safe_format.js1689660240179739700 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/normalize-package-data/node_modules/semver1689660240179739700 1
 105/home/xaviju/Projects/2023/domenica/web/node_modules/normalize-package-data/node_modules/semver/README.md1689660240179739700 0
@@ -11767,9 +11803,6 @@
 99/home/xaviju/Projects/2023/domenica/web/node_modules/@csstools/css-parser-algorithms/dist/index.mjs1689660238273070347 0
 100/home/xaviju/Projects/2023/domenica/web/node_modules/@csstools/css-parser-algorithms/dist/index.d.ts1689660238273070347 0
 122/home/xaviju/Projects/2023/domenica/web/node_modules/@csstools/css-parser-algorithms/dist/parse/parse-component-value.d.ts1689660238273070347 0
-92/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/selector-id-pattern1689660240299739869 1
-83/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/core/lib/Validation.js1689660238323070417 0
-90/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/.github/FUNDING.yml1689660240266406489 0
 96/home/xaviju/Projects/2023/domenica/web/node_modules/rimraf/dist/cjs/src/rimraf-move-remove.d.ts1689660240263073151 0
 94/home/xaviju/Projects/2023/domenica/web/node_modules/@csstools/css-parser-algorithms/dist/util1689660238273070347 1
 109/home/xaviju/Projects/2023/domenica/web/node_modules/@csstools/css-parser-algorithms/dist/util/stringify.d.ts1689660238273070347 0
@@ -11828,6 +11861,7 @@
 90/home/xaviju/Projects/2023/domenica/web/node_modules/has-tostringtag/test/shams/core-js.js1689660240033072827 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/offline-apps.js1689660239873072601 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/has-tostringtag/test/index.js1689660240033072827 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/7b/f914785d46c1ce618e45d7863fbc9379c068811689667302069129180 0
 69/home/xaviju/Projects/2023/domenica/web/node_modules/dotenv/config.js1689660239943072700 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2023/CreateHTML.js1689660239989739432 0
 78/home/xaviju/Projects/2023/domenica/web/node_modules/dotenv/lib/cli-options.js1689660239943072700 0
@@ -11896,12 +11930,12 @@
 91/home/xaviju/Projects/2023/domenica/web/node_modules/uri-js/dist/esnext/schemes/http.js.map1689660240329739911 0
 105/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/cjs/_class_extract_field_descriptor.cjs1689660239819739193 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/table/dist/src/types/api.d.ts1689660240316406559 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/7b1689667302069129180 1
 79/home/xaviju/Projects/2023/domenica/web/node_modules/postcss/lib/stringify.d.ts1689660240206406404 0
 97/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/_/_super_prop_base/package.json1689660239809739179 0
 110/home/xaviju/Projects/2023/domenica/web/node_modules/read-pkg-up/node_modules/hosted-git-info/git-host-info.js1689660240249739799 0
 110/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/CHANGELOG.md1689660238483070643 0
 87/home/xaviju/Projects/2023/domenica/web/node_modules/table/dist/src/alignTableData.d.ts1689660240313073221 0
-78/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/LICENSE1689660240266406489 0
 62/home/xaviju/Projects/2023/domenica/web/node_modules/wrap-ansi1689660240333073249 1
 89/home/xaviju/Projects/2023/domenica/web/node_modules/table/dist/src/alignTableData.js.map1689660240313073221 0
 76/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/_/_type_of1689660239816405855 1
@@ -11939,7 +11973,7 @@
 102/home/xaviju/Projects/2023/domenica/web/node_modules/ordered-binary/.nyc_output/processinfo/index.json1689660240193073052 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/table/dist/src/drawBorder.js1689660240316406559 0
 103/home/xaviju/Projects/2023/domenica/web/node_modules/table/dist/src/calculateMaximumColumnWidths.js.map1689660240316406559 0
-117/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/MERGE_RR1689666911305207870 0
+117/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/MERGE_RR1689667302095795888 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/has-proto/CHANGELOG.md1689660240033072827 0
 81/home/xaviju/Projects/2023/domenica/web/node_modules/table/dist/src/wrapWord.d.ts1689660240319739897 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/node-gyp-build-optional-packages1689660240179739700 1
@@ -11957,7 +11991,6 @@
 71/home/xaviju/Projects/2023/domenica/web/node_modules/table/node_modules1689660240319739897 1
 75/home/xaviju/Projects/2023/domenica/web/node_modules/shell-quote/test/op.js1689660240269739827 0
 84/home/xaviju/Projects/2023/domenica/web/node_modules/table/node_modules/string-width1689660240319739897 1
-77/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/package.json1689660240273073165 0
 92/home/xaviju/Projects/2023/domenica/web/node_modules/table/node_modules/string-width/license1689660240319739897 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/table/node_modules/string-width/index.d.ts1689660240319739897 0
 93/home/xaviju/Projects/2023/domenica/web/node_modules/table/node_modules/string-width/index.js1689660240319739897 0
@@ -12142,7 +12175,6 @@
 75/home/xaviju/Projects/2023/domenica/web/node_modules/term-size/package.json1689660240319739897 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/term-size/readme.md1689660240319739897 0
 70/home/xaviju/Projects/2023/domenica/web/node_modules/term-size/license1689660240319739897 0
-88/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/index.d.ts.map1689660240273073165 0
 73/home/xaviju/Projects/2023/domenica/web/node_modules/term-size/index.d.ts1689660240319739897 0
 117/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/media-feature-name-value-no-unknown/index.js1689660240296406531 0
 68/home/xaviju/Projects/2023/domenica/web/node_modules/shebang-command1689660240269739827 1
@@ -12151,24 +12183,44 @@
 81/home/xaviju/Projects/2023/domenica/web/node_modules/shebang-command/package.json1689660240269739827 0
 104/home/xaviju/Projects/2023/domenica/web/node_modules/glob/node_modules/minimatch/dist/mjs/index.d.ts.map1689660240029739489 0
 68/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages1689666896681853036 1
-122/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.c4a72a0e.css1689666911265207811 0
+80/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2022/WeekDay.js1689660239989739432 0
+121/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.3b93c773.js1689667302059129165 0
 83/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/2015/CreateHTML.js1689660239949739376 0
 80/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/fs/src/OverlayFS.js1689660238409737206 0
-114/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/index1689666911305207870 0
+114/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/index1689667302092462549 0
+78/home/xaviju/Projects/2023/domenica/web/node_modules/es-abstract/5/ToNumber.js1689660239996406108 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/161689667301889128905 1
+92/home/xaviju/Projects/2023/domenica/web/node_modules/string.prototype.trimstart/package.json1689660240283073179 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/651689667302069129180 1
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/671689667302092462549 1
+76/home/xaviju/Projects/2023/domenica/web/node_modules/unbox-primitive/LICENSE1689660240326406573 0
+75/home/xaviju/Projects/2023/domenica/web/node_modules/strip-bom/package.json1689660240283073179 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/67/874c16b89b41baa84b18704401a560d3e9ad081689667302092462549 0
+98/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/runtime-browser-hmr/src/HMRRuntime.js1689660238566404094 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/74/f47252c236100a5d1d0fe327f895fb418537871689667302069129180 0
+80/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/events/lib/index.js1689660238333070431 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/fb1689667301885795566 1
 121/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/info1689666896691853050 1
 76/home/xaviju/Projects/2023/domenica/web/node_modules/react-error-overlay/lib1689660240246406461 1
 121/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/pack1689666906985201513 1
 171/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/pack/pack-1c199a186479026a9fd9ce60b96b2f73eea55d19.idx1689666906398533984 0
 63/home/xaviju/Projects/2023/domenica/web/node_modules/parcel/src1689660240193073052 1
 111/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/_/_tagged_template_literal_loose/package.json1689660239809739179 0
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/c51689667301875795551 1
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/c5/74705ac489c503c586ad9843f7ac73214a666e1689667301875795551 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/35/aea1af78d4eedfbc78113404a2d0383345023e1689667302069129180 0
+131/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeAttributesBySelector.js1689660238543070727 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/36/c322263470b7e71b221eb5c14f82e5aab56cd41689667302069129180 0
+158/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/objects/78/a1c53103ecc7abed2115c4460dd66e2ce90c6b1689667301872462212 0
 85/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/transformer-posthtml/lib1689660239306405136 1
 113/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs1689666906981868175 1
 121/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/remotes1689666906981868175 1
 92/home/xaviju/Projects/2023/domenica/web/node_modules/caniuse-lite/data/features/css3-attr.js1689660239866405925 0
-119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/heads1689666911305207870 1
+119/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/heads1689667302095795888 1
 124/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/heads/main1689666906985201513 0
+121/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.d9334dbc.js1689667302059129165 0
 82/home/xaviju/Projects/2023/domenica/web/node_modules/object.assign/test/shimmed.js1689660240193073052 0
-128/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/heads/gh-pages1689666911305207870 0
+128/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/refs/heads/gh-pages1689667302095795888 0
 117/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/branches1689666896681853036 1
 101/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/runtime-js/src/helpers/node/js-loader.js1689660238569737432 0
 120/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/packed-refs1689666906981868175 0
@@ -12192,12 +12244,16 @@
 79/home/xaviju/Projects/2023/domenica/web/node_modules/css-what/lib/es/index.d.ts1689660239919739334 0
 138/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/hooks/pre-merge-commit.sample1689666896685186374 0
 126/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/remotes1689666906985201513 1
-133/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/remotes/origin1689666913028543740 1
+133/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/remotes/origin1689667302002462411 1
+73/home/xaviju/Projects/2023/domenica/web/node_modules/decamelize/readme.md1689660239939739362 0
+138/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/remotes/origin/main1689667302002462411 0
 107/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/utils/getNextNonSharedLineCommentNode.js1689660240303073207 0
 67/home/xaviju/Projects/2023/domenica/web/node_modules/.bin/stylelint1689660238263070333 0
 124/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/refs/heads1689666911305207870 1
 136/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/hooks/applypatch-msg.sample1689666896685186374 0
-118/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/HEAD1689666911305207870 0
+118/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/.git/logs/HEAD1689667302095795888 0
+91/home/xaviju/Projects/2023/domenica/web/node_modules/validate-npm-package-license/README.md1689660240329739911 0
+125/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.d9334dbc.js.map1689667302059129165 0
 70/home/xaviju/Projects/2023/domenica/web/node_modules/colord/parse.d.ts1689660239893072630 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/@swc/helpers/_/_class_apply_descriptor_set1689660239806405841 1
 89/home/xaviju/Projects/2023/domenica/web/node_modules/table/dist/src/makeStreamConfig.d.ts1689660240316406559 0
@@ -12217,7 +12273,7 @@
 74/home/xaviju/Projects/2023/domenica/web/node_modules/colord/plugins/lab.js1689660239893072630 0
 90/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/utils/test/objectHash.test.js1689660239323071827 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/colord/plugins/hwb.mjs1689660239893072630 0
-114/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.html1689666911265207811 0
+114/home/xaviju/Projects/2023/domenica/web/node_modules/.cache/gh-pages/git@github.com!PIWEEK!domenica.git/index.html1689667302059129165 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/colord/plugins/a11y.js1689660239893072630 0
 75/home/xaviju/Projects/2023/domenica/web/node_modules/colord/plugins/lch.mjs1689660239893072630 0
 72/home/xaviju/Projects/2023/domenica/web/node_modules/colord/helpers.d.ts1689660239893072630 0
@@ -12780,18 +12836,3 @@
 109/home/xaviju/Projects/2023/domenica/web/node_modules/path-scurry/node_modules/lru-cache/dist/mjs/index.min.js1689660240199739728 0
 105/home/xaviju/Projects/2023/domenica/web/node_modules/path-scurry/node_modules/lru-cache/dist/mjs/index.js1689660240199739728 0
 95/home/xaviju/Projects/2023/domenica/web/node_modules/path-scurry/node_modules/lru-cache/LICENSE1689660240196406390 0
-79/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/index.js1689660240266406489 0
-71/home/xaviju/Projects/2023/domenica/web/node_modules/prettier/index.mjs1689660240213073080 0
-89/home/xaviju/Projects/2023/domenica/web/node_modules/rimraf/dist/mjs/default-tmp.d.ts.map1689660240263073151 0
-83/home/xaviju/Projects/2023/domenica/web/node_modules/safe-array-concat/CHANGELOG.md1689660240266406489 0
-64/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit1689660240273073165 1
-74/home/xaviju/Projects/2023/domenica/web/node_modules/fs-extra/lib/index.js1689666826511750542 0
-118/home/xaviju/Projects/2023/domenica/web/node_modules/stylelint/lib/rules/font-family-no-missing-generic-family-keyword1689660240293073193 1
-86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/package.json1689660240273073165 0
-78/home/xaviju/Projects/2023/domenica/web/node_modules/fs-extra/lib/util/stat.js1689666826525083895 0
-72/home/xaviju/Projects/2023/domenica/web/node_modules/@parcel/logger/test1689660238416403882 1
-86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/browser.d.ts1689660240273073165 0
-84/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/signals.js1689660240273073165 0
-86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/signals.d.ts1689660240273073165 0
-86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/cjs/index.js.map1689660240273073165 0
-86/home/xaviju/Projects/2023/domenica/web/node_modules/signal-exit/dist/mjs/package.json1689660240273073165 0

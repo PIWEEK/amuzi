@@ -6,7 +6,7 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "parcel:serve": "parcel src/index.html --open",
-    "parcel:build": "parcel build --public-url https://piweek.github.io/domenica/",
+    "parcel:build": "parcel build --public-url /domenica",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "clean": "rimraf dist .cache .cache-loader .parcel-cache",
